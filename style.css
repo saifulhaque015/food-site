@@ -1,0 +1,61 @@
+body{
+    font-family: 'Roboto', sans-serif; 
+}
+h1{
+    font-size: 50px;
+    font-weight: 600px
+    ;
+}
+.header{
+    display: flex;
+    margin-bottom: 80px;
+}
+.header p{
+    text-align: center;
+}
+.skip-color{
+    color:#FB9149;
+}
+.about-sec{
+    width: 50%;
+    padding: 10%;
+}
+.about-sec h1{
+    color: gray;
+    margin-left: 100px;
+}
+.first-button{
+    text-decoration: none;
+    background-image: linear-gradient(#FB9149,#FE4B2F);
+    padding: 10px 40px;
+    border-radius: 5px;
+    font-weight: 400;
+    color: white;
+    display: inline-block;
+    margin-left: 100px;
+    margin-top: 30px;
+}
+.female-pic-size img {
+    width: 98%;
+}
+.female-pic-size2 img {
+    width: 40%;
+    margin-left: 300px;
+    margin-top: 24%;
+}
+.middle-banner{
+    background-image: url(images/shapes/7.png);
+    display: flex;
+    margin-bottom: 50px;
+}
+.second-button{
+    text-decoration: none;
+    background-image: linear-gradient(#FB9149,#FE4B2F);
+    padding: 10px 40px;
+    font-weight: 400;
+    color: white;
+    border-radius: 5px;
+    display: inline-block;
+    margin-top: 20px;
+    margin-left: 100px;
+}

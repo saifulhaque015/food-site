@@ -77,12 +77,15 @@ h1{
 .list-1 img{
     width: 100%;
 }
+.list-1 h3{
+    font-weight: 400px;
+}
 .shadow{
     box-shadow: 10px 10px 40px black;
     margin-right: 2%;
     margin-left: 6%;
     padding:2%;
-    border-radius: 25px;
+    border-radius: 35px;
 }
 footer{
     color: #FE4B2F ;
@@ -95,4 +98,27 @@ small{
 }
 .footer-sec{
     color: white;
+}
+.show-off{
+    padding: 2%;
+    box-shadow: 10px 10px 40px black;
+    border-radius: 30px;
+    margin-bottom: 25px;
+    margin-left: 90px;
+    margin-right: 90px;
+}
+.ending{
+    display: flex;
+}
+.subs{
+    width: 25%;
+    margin-left: 10%;
+}
+.subs h2{
+    font-size: 40px;
+    font-weight: 600px;
+    text-align: center;
+}
+.subs p{
+    text-align: center;
 }
